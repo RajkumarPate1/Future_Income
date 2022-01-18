@@ -10,7 +10,7 @@ Building & analysing the model to predict the earnings of an individual. Also, c
 
 ![download (6)](https://user-images.githubusercontent.com/94376039/149975681-6ac1fe9f-e40d-4d56-847c-45e754aace1a.png)
 
-![download (6)](https://user-images.githubusercontent.com/94376039/149975693-903c20ee-78a4-4263-b687-cc4060abafe6.png)
+![download (7)](https://user-images.githubusercontent.com/94376039/149975826-ccb718aa-1b43-44ba-b6af-21afee75cbe7.png)
 
 ![download (8)](https://user-images.githubusercontent.com/94376039/149975708-585189f5-8d61-4c1a-a3b1-571258b13fe6.png)
 
