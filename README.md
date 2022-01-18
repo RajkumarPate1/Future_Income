@@ -6,7 +6,15 @@ Evaluated the multivariable linear model’s regression coefficients using Pytho
 
 Building & analysing the model to predict the earnings of an individual. Also, considering factors such as education, experience, current salaries, etc. by using the National Longitudinal Survey of Youth (NLSY) dataset.
 
-![EPS_Winvesta](https://user-images.githubusercontent.com/94376039/149973453-f1c7ee7d-3c86-4caa-947c-3643bc81a414.png)
+![download (5)](https://user-images.githubusercontent.com/94376039/149975656-98804869-d3ee-4dc1-8cb9-2b99701f39fe.png)
+
+![download (6)](https://user-images.githubusercontent.com/94376039/149975681-6ac1fe9f-e40d-4d56-847c-45e754aace1a.png)
+
+![download (6)](https://user-images.githubusercontent.com/94376039/149975693-903c20ee-78a4-4263-b687-cc4060abafe6.png)
+
+![download (8)](https://user-images.githubusercontent.com/94376039/149975708-585189f5-8d61-4c1a-a3b1-571258b13fe6.png)
+
+![download (9)](https://user-images.githubusercontent.com/94376039/149975722-18470eb5-3d9b-4d8a-929c-d066458243ec.png)
 
 ## Tools Used
 
